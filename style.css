@@ -1,0 +1,29 @@
+#Number{
+   
+    font-size: 10em;
+    display: flex;
+    justify-content: center;
+
+}
+#buttons{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.b{
+    padding: 10px;
+    margin: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px ;
+    cursor: pointer;
+    transition: background-color 0.25s;
+
+
+}
+
+ .b:hover{
+background-color: black;
+
+}
